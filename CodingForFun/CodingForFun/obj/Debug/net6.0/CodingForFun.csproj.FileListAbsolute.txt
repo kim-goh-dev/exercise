@@ -1,0 +1,15 @@
+E:\git\exercise\CodingForFun\CodingForFun\obj\Debug\net6.0\CodingForFun.csproj.AssemblyReference.cache
+E:\git\exercise\CodingForFun\CodingForFun\obj\Debug\net6.0\CodingForFun.GeneratedMSBuildEditorConfig.editorconfig
+E:\git\exercise\CodingForFun\CodingForFun\obj\Debug\net6.0\CodingForFun.AssemblyInfoInputs.cache
+E:\git\exercise\CodingForFun\CodingForFun\obj\Debug\net6.0\CodingForFun.AssemblyInfo.cs
+E:\git\exercise\CodingForFun\CodingForFun\obj\Debug\net6.0\CodingForFun.csproj.CoreCompileInputs.cache
+E:\git\exercise\CodingForFun\CodingForFun\bin\Debug\net6.0\CodingForFun.exe
+E:\git\exercise\CodingForFun\CodingForFun\bin\Debug\net6.0\CodingForFun.deps.json
+E:\git\exercise\CodingForFun\CodingForFun\bin\Debug\net6.0\CodingForFun.runtimeconfig.json
+E:\git\exercise\CodingForFun\CodingForFun\bin\Debug\net6.0\CodingForFun.dll
+E:\git\exercise\CodingForFun\CodingForFun\bin\Debug\net6.0\CodingForFun.pdb
+E:\git\exercise\CodingForFun\CodingForFun\obj\Debug\net6.0\CodingForFun.dll
+E:\git\exercise\CodingForFun\CodingForFun\obj\Debug\net6.0\refint\CodingForFun.dll
+E:\git\exercise\CodingForFun\CodingForFun\obj\Debug\net6.0\CodingForFun.pdb
+E:\git\exercise\CodingForFun\CodingForFun\obj\Debug\net6.0\CodingForFun.genruntimeconfig.cache
+E:\git\exercise\CodingForFun\CodingForFun\obj\Debug\net6.0\ref\CodingForFun.dll
