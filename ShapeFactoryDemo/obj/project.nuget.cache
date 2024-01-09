@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "8Su8Fkd4B7TgfiZC7/r9EEh9AGD1p0ACT6rs9ZCt+0UnjjUrdVUasiOdBDz0APwXbMJC+Wq5EoislOmTVQuVNQ==",
+  "success": true,
+  "projectFilePath": "E:\\git\\exercise\\ShapeFactoryDemo\\ShapeFactoryDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kh\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.1\\microsoft.extensions.dependencyinjection.5.0.1.nupkg.sha512",
+    "C:\\Users\\kh\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
