@@ -1,0 +1,26 @@
+C:\Users\kh\Desktop\StrategyPatternExample-master\src\StrategyPatternExample\bin\Debug\netcoreapp2.0\StrategyPatternExample.deps.json
+C:\Users\kh\Desktop\StrategyPatternExample-master\src\StrategyPatternExample\bin\Debug\netcoreapp2.0\StrategyPatternExample.runtimeconfig.json
+C:\Users\kh\Desktop\StrategyPatternExample-master\src\StrategyPatternExample\bin\Debug\netcoreapp2.0\StrategyPatternExample.runtimeconfig.dev.json
+C:\Users\kh\Desktop\StrategyPatternExample-master\src\StrategyPatternExample\bin\Debug\netcoreapp2.0\StrategyPatternExample.dll
+C:\Users\kh\Desktop\StrategyPatternExample-master\src\StrategyPatternExample\bin\Debug\netcoreapp2.0\StrategyPatternExample.pdb
+C:\Users\kh\Desktop\StrategyPatternExample-master\src\StrategyPatternExample\obj\Debug\netcoreapp2.0\StrategyPatternExample.csproj.AssemblyReference.cache
+C:\Users\kh\Desktop\StrategyPatternExample-master\src\StrategyPatternExample\obj\Debug\netcoreapp2.0\StrategyPatternExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kh\Desktop\StrategyPatternExample-master\src\StrategyPatternExample\obj\Debug\netcoreapp2.0\StrategyPatternExample.AssemblyInfoInputs.cache
+C:\Users\kh\Desktop\StrategyPatternExample-master\src\StrategyPatternExample\obj\Debug\netcoreapp2.0\StrategyPatternExample.AssemblyInfo.cs
+C:\Users\kh\Desktop\StrategyPatternExample-master\src\StrategyPatternExample\obj\Debug\netcoreapp2.0\StrategyPatternExample.csproj.CoreCompileInputs.cache
+C:\Users\kh\Desktop\StrategyPatternExample-master\src\StrategyPatternExample\obj\Debug\netcoreapp2.0\StrategyPatternExample.dll
+C:\Users\kh\Desktop\StrategyPatternExample-master\src\StrategyPatternExample\obj\Debug\netcoreapp2.0\StrategyPatternExample.pdb
+C:\Users\kh\Desktop\StrategyPatternExample-master\src\StrategyPatternExample\obj\Debug\netcoreapp2.0\StrategyPatternExample.genruntimeconfig.cache
+E:\Kh\Development\Dot Net\C#\StrategyPatternExample-master\src\StrategyPatternExample\bin\Debug\netcoreapp2.0\StrategyPatternExample.deps.json
+E:\Kh\Development\Dot Net\C#\StrategyPatternExample-master\src\StrategyPatternExample\bin\Debug\netcoreapp2.0\StrategyPatternExample.runtimeconfig.json
+E:\Kh\Development\Dot Net\C#\StrategyPatternExample-master\src\StrategyPatternExample\bin\Debug\netcoreapp2.0\StrategyPatternExample.runtimeconfig.dev.json
+E:\Kh\Development\Dot Net\C#\StrategyPatternExample-master\src\StrategyPatternExample\bin\Debug\netcoreapp2.0\StrategyPatternExample.dll
+E:\Kh\Development\Dot Net\C#\StrategyPatternExample-master\src\StrategyPatternExample\bin\Debug\netcoreapp2.0\StrategyPatternExample.pdb
+E:\Kh\Development\Dot Net\C#\StrategyPatternExample-master\src\StrategyPatternExample\obj\Debug\netcoreapp2.0\StrategyPatternExample.csproj.AssemblyReference.cache
+E:\Kh\Development\Dot Net\C#\StrategyPatternExample-master\src\StrategyPatternExample\obj\Debug\netcoreapp2.0\StrategyPatternExample.GeneratedMSBuildEditorConfig.editorconfig
+E:\Kh\Development\Dot Net\C#\StrategyPatternExample-master\src\StrategyPatternExample\obj\Debug\netcoreapp2.0\StrategyPatternExample.AssemblyInfoInputs.cache
+E:\Kh\Development\Dot Net\C#\StrategyPatternExample-master\src\StrategyPatternExample\obj\Debug\netcoreapp2.0\StrategyPatternExample.AssemblyInfo.cs
+E:\Kh\Development\Dot Net\C#\StrategyPatternExample-master\src\StrategyPatternExample\obj\Debug\netcoreapp2.0\StrategyPatternExample.csproj.CoreCompileInputs.cache
+E:\Kh\Development\Dot Net\C#\StrategyPatternExample-master\src\StrategyPatternExample\obj\Debug\netcoreapp2.0\StrategyPatternExample.dll
+E:\Kh\Development\Dot Net\C#\StrategyPatternExample-master\src\StrategyPatternExample\obj\Debug\netcoreapp2.0\StrategyPatternExample.pdb
+E:\Kh\Development\Dot Net\C#\StrategyPatternExample-master\src\StrategyPatternExample\obj\Debug\netcoreapp2.0\StrategyPatternExample.genruntimeconfig.cache
